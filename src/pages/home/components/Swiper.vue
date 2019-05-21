@@ -38,8 +38,10 @@ export default {
   background :#fff
 }
 .wrapper{
+  overflow :hidden
   width :100%
-  height :37.09vw
+  height :0
+  padding-bottom :31.25%
   background :#eee
   .swiper-img{
     width :100%
